@@ -1,1 +1,1 @@
-# coding-project-template
+# Text translator with Watson APIs
